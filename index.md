@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## CV
 
-You can use the [editor on GitHub](https://github.com/carloslorenzon/carloslorenzon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### SUMÁRIO
+- Mais de 10 anos de experiência com desenvolvimento FULL STACK utilizando JAVA e Angular;
+- Competência em gerenciar mais de um projeto simultâneo, como desenvolvimento de novas funcionalidades,
+aplicações, migrações de base de dados e implantação de sistemas;
+- Experiência como SCRUM Master e PO em equipes de desenvolvimento ágil e projetos de implantação.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FORMAÇÃO
 
-### Markdown
+- Bacharel em Sistemas da Informação - Estácio de Sá | 2013 - 2017.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CURSOS
+- Angular 7 e Nativescript - Nonato Costa - 2019;
+- Spring boot 2 com oauth - Plinio Alvez - 2018;
+- Angular 7 com Typescript - Nataniel Paiva - 2018;
+- React - Redux - Leonardo Moura - 2018;
+- Gestão Agil utilizando scrum et kanban - Gustavo Farias - 2016;
+- Fast MBA - André Bernardo - 2016;
 
-```markdown
-Syntax highlighted code block
+### COMPETÊNCIAS E CONHECIMENTOS
+- JAVA (REST com SPRING BOOT);
+- NODEJS com expressjs e KNEX
+- PHP (LUMEN, SLIMFRAMEWORK e CODEIGNITER);
+- ANGULARJS / ANGULAR;
+- HTML + CSS + JAVASCRIPT;
+- SQL ANSI;
+- FRAMEWORK SCRUM e KANBAN;
 
-# Header 1
-## Header 2
-### Header 3
+### EXPERIÊNCIA PROFISSIONAL
 
-- Bulleted
-- List
+#### DESENVOLVEDOR FULL STACK | softplan | 2019 - ATUAL
+- Desenvolvimento de solução para tribunais de justiça, utilizando as linguagens Java, Kotlin com AngularJs e ReactJs;
 
-1. Numbered
-2. List
+#### DESENVOLVEDOR FULL STACK | CONTA MINIMA | 2016 - 2019
+- Desenvolvimento de solução para análise das faturas das operadoras de Telecom, encontrando erros de
+faturamento e analisando consumo (utilizado: Java, MySql, AngularJS et regex);
+- Desenvolvimento de solução de coleta de Notas Fiscais de Serviço nas prefeituras do Brasil (utilisado : JAVA,
+NODEJS, MySQL, SOAP, REST, Angular e regex).
 
-**Bold** and _Italic_ and `Code` text
+### DESENVOLVEDOR PHP E C# | BLOOMEX | 2010 - 2015
+- Desenvolvimento de solução para gestão do parque de impressão, controle de cotas, contabilização de
+impressões e monitoramento dos equipamentos (utilizado: Java, C#, PHP e MySQL).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carloslorenzon/carloslorenzon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### ANALISTA DE IMPLANTAÇÃO | VIASOFT | 2009 - 2010
+- Análise e adaptação dos processos das empresas para utilização do ERP;
+- Análise da tributação em conjunto com o contador para parametrização dos impostos no ERP;
+- Treinamento da equipe para utilização do ERP.
