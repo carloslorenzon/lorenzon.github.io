@@ -29,7 +29,7 @@ aplicações, migrações de base de dados e implantação de sistemas;
 
 ### EXPERIÊNCIA PROFISSIONAL
 
-#### DESENVOLVEDOR FULL STACK | softplan | 2019 - ATUAL
+#### DESENVOLVEDOR FULL STACK | SOFTPLAN | 2019 - ATUAL
 - Desenvolvimento de solução para tribunais de justiça, utilizando as linguagens Java, Kotlin com AngularJs e ReactJs;
 
 #### DESENVOLVEDOR FULL STACK | CONTA MINIMA | 2016 - 2019
