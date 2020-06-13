@@ -1,16 +1,9 @@
-header {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-    background: #333;    
-}
+@import "{{ site.theme }}";
 
-header h1 {    
-    margin-top: 0;
-    margin-bottom: 0.2em;
-    font-size: 35px;
-    font-weight: normal;
-    line-height: 1;
-    color: #fff;
-    letter-spacing: -1px;
+
+
+.page-header {
+    padding: 3rem 2rem !important;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif !important;
+    height: 250px !important;
 }

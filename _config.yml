@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
-logo: /assets/img/foto.png
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+page.title: Carlos Lorenzon
 title: Carlos Lorenzon
-description: Apaixonado por tecnologia, voltada à gestão e automação de processos.<br />Formado pela Estácio em sistema de Informação, atuando a 14 anos na venda e desenvolvimento de softwares.<br />Facilidade de comunicar e demonstrar as características técnicas e os benefícios dos produtos e serviços da empresa, como também de explorar as oportunidades existentes para resolver outras deficiências e vulnerabilidades do negócio ainda não identificadas pelos clientes.
+description: Personal site for articles, useful links, and files
